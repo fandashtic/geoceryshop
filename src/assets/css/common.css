@@ -1,0 +1,22 @@
+.content {
+    padding: 1.5rem!important;
+}
+.right{
+    float: right;
+}
+.form-control{
+    width:100% !important;
+}
+.card-subtitle, .card-title{
+    position: absolute;
+    top: 20px;
+}
+.messages{
+    color:red;
+}
+.pt-12{
+    padding-top: 12px!important;
+}
+.floatR{
+    float: right!important;
+}
